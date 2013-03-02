@@ -1,5 +1,6 @@
 <html>
 <head>
+    <title>Huffman algorithm</title>
     <style>
         
         div.kids, div.kid {  
