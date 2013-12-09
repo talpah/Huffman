@@ -77,7 +77,9 @@ if (isset($_GET['tryme'])) {
 ?>
 <h2>Input:</h2>
 <div>
-<pre><?php echo $string; ?></pre>
+<form action="">
+<input name="tryme" value="<?php echo $string; ?>" />
+</form>
 </div>
 <?php
 
